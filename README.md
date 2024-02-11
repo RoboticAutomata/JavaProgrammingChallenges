@@ -19,4 +19,4 @@ mvn clean verify
 ## Resources
 
 - [Live Coding Demo on Youtube](https://youtu.be/L62QdIXwUyI)
-- Follow Along Tutorial, stay tuned
+- [Follow Along Blog Tutorial](https://medium.com/@RoboticAutomata/solving-primes-in-java-testng-614036ee7110)
