@@ -8,7 +8,13 @@ For now, this repo will likely only solve the finding Primes problem. Perhaps in
 
 ## Run the tests
 
-Use the TestNG plugin for Eclipse.
+1. From the commandline:
+
+```
+mvn clean verify
+```
+
+2. In Eclipse, make sure to use the TestNG plugin.
 
 ## Resources
 
